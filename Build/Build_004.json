@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Meatball Faggotry",
+"dataUrl": "Build_004.data.unityweb",
+"wasmCodeUrl": "Build_004.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build_004.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
